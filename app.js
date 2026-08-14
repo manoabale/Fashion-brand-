@@ -103,4 +103,4 @@ function App() {
   );
 }
 
-ReactDOM.render(<App />, document.getElement  
+ReactDOM.render(<App />, document.getElement(("root"));
